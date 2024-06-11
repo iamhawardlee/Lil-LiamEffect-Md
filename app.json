@@ -1,15 +1,15 @@
 {
-  "name": "Speed-md",
+  "name": "Lil LiamEffect Md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/malvinking/Speed-md/blob/main/lib/assets/downloadfile.jpg?raw=true",
-  "keywords": ["SPEED-MD", "MALVINKING", "SPEED MD BOT","SPEED MD","malvinking","speedtech"],
+  "keywords": ["LIL LIAM EFFECT MD", "MALVINKING", "SPEED MD BOT","SPEED MD","malvinking","speedtech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "Malvin King",
+      "value": "lil LiamEffect",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "SPEED 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
+      "value": "LIL LIAM EFFECT-MD "
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "263780934873"
+      "value": "256707089621"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -102,12 +102,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "SPEED",
+      "value": "LIL LIAM EFFECT MD",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "MALVIN KING",
+      "value": "LIL LIAM EFFECT",
       "required": false
     }
   },
