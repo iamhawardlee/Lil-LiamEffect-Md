@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> Lil-LiamEffect-M𝗱 </h1> 
-<p align="center"> Introducing Speed-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<p align="center"> IntroducingLil-LiamEffect-M𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -30,13 +30,13 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{LiamEffect55}/count.svg" alt="Speed-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{LiamEffect55}/count.svg" alt="Lil-LiamEffect-M𝗱 :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> Speed-𝗺𝗱 uses
+<p align="center"> Lil-LiamEffect-M𝗱 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
