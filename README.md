@@ -117,12 +117,12 @@
 <br>
 
 
-[![FORK-Lil-LiamEffect-Md)(https://img.shields.io/badge/FORK%20-Lil-LiamEffect%20MD-white](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)> <img src="https://img.shields.io/badge/fork%20repo-green?style=for-the-badge&logo=fork" width="220" height="38.45"/></a>
+[![FORK Lil-LiamEffect-MD](https://img.shields.io/badge/FORK%20Lil-LiamEffect%20MD-red)](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center"><a href="https://black-pantr-app-6d384e753bee.herokuapp.com/">
+<p align="center"><a href="https://black-panther-app-6d384e753bee.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20Lil-LiamEffect-M𝗱%20APP-marron?style=for-the-badge&logo=Lil-LiamEffect-M𝗱" width="220" height="38.45"/></a></p>
 
 
