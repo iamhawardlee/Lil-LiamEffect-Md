@@ -1,7 +1,7 @@
 {
-   "name": "Speed-md",
+   "name": "lil LiamEffect Md",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by malvinking ....",
+   "description": "Multi device whatsapp bot by Lil LiamEffect ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
@@ -9,8 +9,8 @@
       "Kingjux ": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
       "start": "pm2 start . --attach --name Kingjux",
       "stop": "pm2 stop Kingjux",
-      "heroku-postbuild": "git clone https://github.com/malvinking/Speed-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/malvinking/Speed-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "heroku-postbuild": "git clone https://github.com/LilLiamEffect55/Lil LiamEffect-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/LilLiamEffect55/lil LiamEffect-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Kingjux",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/malvinking/Speed-md.git"
+      "url": "git+https://github.com/LilLiamEffect55/Lil LiamEffect-md.git"
    },
    "bugs": {
-      "url": "https://github.com/malvinking/Speed-md/issues"
+      "url": "https://github.com/LilLiamEffect55/Lil LiamEffect-md/issues"
    },
-   "homepage": "https://github.com/malvinking/Speed-md#readme"
+   "homepage": "https://github.com/LilLiamEffect55/Speed-md#readme"
 }
