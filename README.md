@@ -5,7 +5,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Speed tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+Lil-LiamEffect-M𝗱+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/LiamEffect55)
+[![Lil LiamEffect Md](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+Lil-LiamEffect-M𝗱+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/LiamEffect55)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -25,7 +25,7 @@
   <a href="https://wa.me/+263780934873?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Speed-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Speed-md is free to use" href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱 " target="_blank">
+  <a aria-label="lil LiamEffect Md is free to use" href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱 " target="_blank">
     <img alt="Lil-LiamEffect-M𝗱 " src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLiamEffect55%2FLil-LiamEffect-M𝗱"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https:speed-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/malvinking/Speed-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=malvinking ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Speedᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SPEED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Speed-tech&env[KOYEB_NAME]=Speed-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/malvinking/lil LiamEffect Md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=256707089621&env[MONGODB_URI]&&env[OWNER_NAME]=Lil LiamEffect ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Lil LiamEffect Md ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Lil LiamEffect Md &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=lil LiamEffect Md-tech&env[KOYEB_NAME]=Lil LiamEffect Md-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://www.youtube.com/@speedtechi"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
@@ -134,7 +134,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/263780934873)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/256707089621)
 
 
 ### I Am
@@ -174,7 +174,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `Lil-LiamEffect-𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@speedtechi)
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `Lil-LiamEffect-𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@lilLiamEffectMd)
  
   ##
   
@@ -197,9 +197,9 @@
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [Speed 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/LiamEffect55) , [tttxxs](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [Lil LiamEffect Md💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/LiamEffect55) , [tttxxs](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
 
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez)
+ ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/JCwI6mNzzCTDQ6rbL1sCJM)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -212,7 +212,7 @@ Lil-LiamEffect-M𝗱 BOT
 
 <p align="center">
   <a href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱">
-    <img alt="Speed docs" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
+    <img alt="Lil LiamEffect Md docs" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
   </a>
 </p>
     
@@ -222,4 +222,4 @@ Lil-LiamEffect-M𝗱 BOT
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### UPDATE
-SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/263780934873?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
+SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/256707089621?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
