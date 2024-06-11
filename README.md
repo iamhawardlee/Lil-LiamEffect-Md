@@ -13,7 +13,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱">
-    <img alt="Speed docs" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
+    <img alt="Lil-LiamEffect-M𝗱  docs" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
   </a>
 </p>
     
@@ -60,7 +60,7 @@
 </p>
   <a href="https://www.youtube.com/@speedtechi"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/malvinking/Speed-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/issues">issue</a></p>
 
  
 
@@ -89,7 +89,7 @@
 
 <h3>Lil-LiamEffect-M𝗱Stats</h3>
 
-![Lil-LiamEffect-M𝗱 Stats](https://github-readme-stats.vercel.app/api/pin/?username=malvinking&repo=speed-md&show_owner=true&theme=dark)
+![Lil-LiamEffect-M𝗱 Stats](https://github-readme-stats.vercel.app/api/pin/?username=LiamEffect55&repo=Lil-LiamEffect-M𝗱&show_owner=true&theme=dark)
 
 
     
@@ -138,7 +138,7 @@
 
 
 ### I Am
-- [Lil-LiamEffect-M𝗱 ](https://github.com/malvinking) 
+- [Lil-LiamEffect-M𝗱 ](https://github.com/LiamEffect55) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -174,7 +174,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `SPEED 𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@speedtechi)
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `Lil-LiamEffect-𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@speedtechi)
  
   ##
   
