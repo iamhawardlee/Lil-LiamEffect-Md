@@ -117,7 +117,7 @@
 <br>
 
 
-[![FORK-Lil-LiamEffect-M𝗱 ](https://img.shields.io/badge/FORK%20-Lil-LiamEffect%20MD-white)](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)
+[![FORK-Lil-LiamEffect-M𝗱](https://img.shields.io/badge/FORK%20-Lil-LiamEffect%20MD-white)](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -138,7 +138,7 @@
 
 
 ### I Am
-- [Speed Tech](https://github.com/malvinking) 
+- [Lil-LiamEffect-M𝗱 ](https://github.com/malvinking) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -152,10 +152,10 @@
 </h2>
    
 ## 
-- *Speed-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Lil-LiamEffect-M𝗱  is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Speed-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/malvinking/Speed-md)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -182,37 +182,37 @@
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Speed+md;🙏;🙏+✍🏾;🥰)](https://github.com/malvinkin)
+[![Lil-LiamEffect-M𝗱](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Lil-LiamEffect+M𝗱;🙏;🙏+✍🏾;🥰)](https://github.com/LiamEffect55)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [Speed 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/malvinking) , [tttxxs](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [Speed 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/LiamEffect55) , [tttxxs](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ©2024
-SPEED MD BOT
+Lil-LiamEffect-M𝗱 BOT
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Speed tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+malvinking;Admin🥰)](https://github.com/malvinking)
+[![Lil-LiamEffect-M𝗱 ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+LiamEffect55;Admin🥰)](https://github.com/LiamEffect55)
 
 <p align="center">
-  <a href="https://github.com/malvinking/Speed-md">
-    <img alt="Speed docs" height="300" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg">
+  <a href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱">
+    <img alt="Speed docs" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
   </a>
 </p>
     
