@@ -87,9 +87,9 @@
 
 
 
-<h3>Speed-md Stats</h3>
+<h3>Lil-LiamEffect-M𝗱Stats</h3>
 
-![Speed-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=malvinking&repo=speed-md&show_owner=true&theme=dark)
+![Lil-LiamEffect-M𝗱 Stats](https://github-readme-stats.vercel.app/api/pin/?username=malvinking&repo=speed-md&show_owner=true&theme=dark)
 
 
     
@@ -117,7 +117,7 @@
 <br>
 
 
-[![FORK-Lil-LiamEffect-M𝗱](https://img.shields.io/badge/FORK%20-Lil-LiamEffect%20MD-white)](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)
+[![FORK-Lil-LiamEffect-Md)(https://img.shields.io/badge/FORK%20-Lil-LiamEffect%20MD-white](https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱/fork)> <img src="https://img.shields.io/badge/fork%20repo-green?style=for-the-badge&logo=fork" width="220" height="38.45"/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
