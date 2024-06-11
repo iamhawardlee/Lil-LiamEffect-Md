@@ -22,7 +22,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+256707089621?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Speed-md+Repo" target="_blank">
+  <a href="https://wa.me/+256707089621?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Lil LiamEffect-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="lil LiamEffect Md is free to use" href="https://github.com/LiamEffect55/Lil-LiamEffect-M𝗱 " target="_blank">
